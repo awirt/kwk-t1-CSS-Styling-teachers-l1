@@ -41,7 +41,7 @@ figcaption {
 /* ID Selectors: apply to one unique element per page*/
 
 #logo { /* select elements with id="logo"
-  
+  bacgkround: aqua;
 }
 
 
